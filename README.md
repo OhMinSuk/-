@@ -2,8 +2,10 @@
 남자 테니스 그랜드슬램 우승자 분석
 
 테니스 그랜드슬램 이란?
-![image](https://github.com/OhMinSuk/Tennis-GrandSlam-Winner-Data-Analysis/assets/113233105/9903798d-3aed-481b-a55b-8a523d58e1f1)
-
+-호주 오픈 (Austrailian Open)
+- 롤랑 가로스 / 프랑스 오픈 (Roland Garros)
+- 윔블던 선수권 대회 (The Champions Wimbledon)
+- US 오픈 (US Open)
 
 분석 내용
 1. 역대 우승 횟수와 준우승 횟수
